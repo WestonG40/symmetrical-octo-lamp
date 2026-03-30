@@ -2,7 +2,7 @@
 
 This is the boilerplate for the Stock Price Checker project. Instructions for building your project can be found at https://freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker
 
-## Features implemented
+## Features implemented 
 
 - GET `/api/stock-prices` endpoint accepting one or two NASDAQ symbols.
 - Optional `like=true` query to record a like from the requesting IP (anonymized via SHA-256).
